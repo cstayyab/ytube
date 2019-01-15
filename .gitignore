@@ -42,9 +42,12 @@ jspm_packages
 yarn.lock
 
 # Express
-public
+#public
 
 # Packaging / releases
 release-builds
 dist
 /package-lock.json
+
+#vscode
+.vscode
